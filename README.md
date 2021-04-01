@@ -1,3 +1,5 @@
+zookeeper： https://blog.csdn.net/qq_33316784/article/details/88563482
+http://www.52itstyle.top/thread-19791-1-1.html
 # spring-boot-pay
 支付服务：支付宝，微信，银联详细 **代码案例** (支付宝和微信支付测试均需要企业认证，如果没有企业推荐使用 [**[服务商模式]**](https://mmbizurl.cn/s/hEludsCNs) 申请开通个人商户 也可以测试
 )，项目启动前请仔细阅读  **[注意事项](https://git.oschina.net/52itstyle/spring-boot-pay#注意事项)** :fa-hand-o-left:   。
